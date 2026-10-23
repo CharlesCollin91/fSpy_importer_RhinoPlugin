@@ -29,6 +29,7 @@ Windows, Rhino 8 or later (built-in Python 3). No extra packages.
 2. Analyse your image
 <br>
 <p align="center"><img width="600" alt="AnalysedImg" src="https://github.com/user-attachments/assets/d487f03e-1311-40a6-a090-aacff44ecccf" /></p>
+<br>
 3. Do your first adjustments in fSpy
 
 <br>
