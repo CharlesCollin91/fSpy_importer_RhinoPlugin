@@ -25,6 +25,17 @@ Windows, Rhino 8 or later (built-in Python 3). No extra packages.
 2. Analyse your image
 <p align="center"><img width="600" alt="AnalysedImg" src="https://github.com/user-attachments/assets/d487f03e-1311-40a6-a090-aacff44ecccf" /></p>
 3. Do your first adjustments in fSpy
+<p align="center"><img width="600" alt="fspy_image_adjustments" src="https://github.com/user-attachments/assets/26c8ed21-5538-41f9-a790-e6bcef178128" /></p>
+4. Import to Rhino via the plugin
+<p align="center"><img width="600" alt="Rhino_fspy_import" src="https://github.com/user-attachments/assets/66520091-792b-43c9-87b2-e54402288ff4" /></p>
+5. Iterate to adjust the lens lenght (back and forth between Rhino and Fspy. Made easy with the "sync" option)
+6. Modelize
+<p align="center"><img width="600" alt="Modelisation" src="https://github.com/user-attachments/assets/6560c1ce-9bff-428a-ad86-226d6c115960" />
+6. Get your skillz out
+<p align="center"><img width="600" alt="ModelisationAdvanced" src="https://github.com/user-attachments/assets/4be28361-bf7e-4ec9-850d-a6c3701d8bac" /></p>
+7. Enjoy ;)
+
+
 
 
 
