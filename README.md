@@ -1,8 +1,6 @@
 # Fspy_importer_CC
 
-
-
-
+<br>
 **The plugin** : A Rhino 8 Python script that imports an [fSpy](https://fspy.io) camera-match project (`.fspy`) into Rhino. 
 
 <p><img src="https://github.com/user-attachments/assets/38273ad4-e2b6-4ecd-81bd-5438ed248f01" alt="Fspy importer UI" width="28.6%"> <img src="https://github.com/user-attachments/assets/7d3010c5-468c-427a-85da-690fcf669d90" alt="Rhino fSpy Import" width="70.1%"></p>
@@ -12,7 +10,7 @@
 - puts the photo on a textured plane whose origin lands exactly on the fSpy origin. 
 
 **Actual Version** : **2.14**
-
+<br>
 **License** : [GPL-3.0-or-later](LICENSE)
 
 ## Requirements
@@ -33,13 +31,13 @@ Windows, Rhino 8 or later (built-in Python 3). No extra packages.
 4. Import to Rhino via the plugin
 <p align="center"><img width="600" alt="Rhino_fspy_import" src="https://github.com/user-attachments/assets/66520091-792b-43c9-87b2-e54402288ff4" /></p>
 5. Iterate to adjust the lens lenght (back and forth between Rhino and Fspy. Made easy with the "sync" option)
-
+<br>
 6. Modelize
 <p align="center"><img width="600" alt="Modelisation" src="https://github.com/user-attachments/assets/6560c1ce-9bff-428a-ad86-226d6c115960" />
-
+<br>
 7. Get your skillz modelization skillz out
 <p><img width="49.3%" alt="00-IMG-ref_AlyssaDesgin" src="https://github.com/user-attachments/assets/e4056c60-753a-4aaf-968e-82202d79fc5a"> <img width="49.3%" alt="3-3D_HDPoly" src="https://github.com/user-attachments/assets/c22284be-5a23-47dd-81ad-9b43abd06585"></p>
-
+<br>
 9. Enjoy ;)
 
 ** Reference design credit : Alyssa Kapito
