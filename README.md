@@ -3,6 +3,11 @@
 [Français](README.fr.md) · **English**
 
 A Rhino 8 Python script that imports an [fSpy](https://fspy.io) camera-match project (`.fspy`) into Rhino. 
+<img
+  width="400"
+  alt="image"
+  src="https://github.com/user-attachments/assets/38273ad4-e2b6-4ecd-81bd-5438ed248f01"
+/>
 
 - It sets the camera of the Front viewport to the fSpy match at real-world scale, 
 - puts the photo on a textured plane whose origin lands exactly on the fSpy origin. 
