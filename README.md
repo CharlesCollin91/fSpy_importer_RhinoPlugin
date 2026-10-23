@@ -10,6 +10,7 @@
 - puts the photo on a textured plane whose origin lands exactly on the fSpy origin. 
 
 **Actual Version** : **2.14**
+
 **License** : [GPL-3.0-or-later](LICENSE)
 
 ## Requirements
