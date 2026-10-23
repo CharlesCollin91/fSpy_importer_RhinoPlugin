@@ -7,11 +7,13 @@
  <p>
   <img
     width="300"
+    align="top"
     alt="Image 1"
     src="https://github.com/user-attachments/assets/38273ad4-e2b6-4ecd-81bd-5438ed248f01"
   />
   <img
-    width="710"
+    width="300"
+    align="top"
     alt="Rhino fSpy Import"
     src="https://github.com/user-attachments/assets/7d3010c5-468c-427a-85da-690fcf669d90"
   />
