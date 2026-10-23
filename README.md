@@ -12,8 +12,7 @@
 - puts the photo on a textured plane whose origin lands exactly on the fSpy origin. 
 
 **Requirements** : fSpy https://github.com/perarnia/fSpy/releases/tag/v1.0.3 <br>
-**Actual Version** : **2.14**
-<br>
+**Actual Version** : 2.14 <br>
 **License** : [GPL-3.0-or-later](LICENSE)
 
 ## Requirements
