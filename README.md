@@ -4,17 +4,9 @@
 
 **The plugin** : A Rhino 8 Python script that imports an [fSpy](https://fspy.io) camera-match project (`.fspy`) into Rhino. 
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github.com/user-attachments/assets/38273ad4-e2b6-4ecd-81bd-5438ed248f01" alt="Image 1" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github.com/user-attachments/assets/7d3010c5-468c-427a-85da-690fcf669d90" alt="Rhino fSpy Import" width="100%" />
-    </td>
-  </tr>
-</table>
-
+<p>
+<img src="https://github.com/user-attachments/assets/38273ad4-e2b6-4ecd-81bd-5438ed248f01" alt="Image 1" width="57.1%"><img src="https://github.com/user-attachments/assets/7d3010c5-468c-427a-85da-690fcf669d90" alt="Rhino fSpy Import" width="42.8%">
+</p>
 
 - It sets the camera of the Front viewport to the fSpy match at real-world scale, 
 - puts the photo on a textured plane whose origin lands exactly on the fSpy origin. 
@@ -30,6 +22,10 @@ Windows, Rhino 8 or later (built-in Python 3). No extra packages.
    ```
    ! _-RunPythonScript "C:\...\Fspy_importer_CC\Fspy_importer_CC.py"
    ```
+## How to
+1. Highly recommanded to understand the basics of fSpy. Everything you need to know for the basics here in this excellent youtube video by Bartochsz Pampush https://www.youtube.com/watch?v=daiMOYR8GS8&t=1343s
+2. Analyse your image
+3. Do your first adjustments in fSpy
 
 ## Inputs
 fSpy project file (`.fspy`), which holds both the calibration and the photo. 
