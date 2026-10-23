@@ -33,15 +33,12 @@ Windows, Rhino 8 or later (built-in Python 3). No extra packages.
 6. Modelize
 <p align="center"><img width="600" alt="Modelisation" src="https://github.com/user-attachments/assets/6560c1ce-9bff-428a-ad86-226d6c115960" />
 
-7. Get your skillz out
+7. Get your skillz modelization skillz out
 <p><img width="49.3%" alt="00-IMG-ref_AlyssaDesgin" src="https://github.com/user-attachments/assets/e4056c60-753a-4aaf-968e-82202d79fc5a"> <img width="49.3%" alt="3-3D_HDPoly" src="https://github.com/user-attachments/assets/c22284be-5a23-47dd-81ad-9b43abd06585"></p>
-
 
 9. Enjoy ;)
 
-
-
-
+** Reference design credit : Alyssa Kapito
 
 
 ## Inputs
