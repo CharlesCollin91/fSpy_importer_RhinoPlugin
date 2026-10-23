@@ -26,28 +26,28 @@ Windows, Rhino 8 or later (built-in Python 3). No extra packages.
    ```
 ## How to
 1. Highly recommanded to understand the basics of fSpy. Everything you need to know for the basics here in this excellent youtube video by Bartochsz Pampush https://www.youtube.com/watch?v=daiMOYR8GS8&t=1343s
+<p>&nbsp;</p>
 2. Analyse your image
-<br>
+<p>&nbsp;</p>
 <p align="center"><img width="600" alt="AnalysedImg" src="https://github.com/user-attachments/assets/d487f03e-1311-40a6-a090-aacff44ecccf" /></p>
-
-<br>
+<p>&nbsp;</p>
 3. Do your first adjustments in fSpy
 <p>&nbsp;</p>
 <p align="center"><img width="600" alt="fspy_image_adjustments" src="https://github.com/user-attachments/assets/26c8ed21-5538-41f9-a790-e6bcef178128" /></p>
+<p>&nbsp;</p>
 4. Import to Rhino via the plugin
 <p>&nbsp;</p>
 <p align="center"><img width="600" alt="Rhino_fspy_import" src="https://github.com/user-attachments/assets/66520091-792b-43c9-87b2-e54402288ff4" /></p>
 5. Iterate to adjust the lens lenght (back and forth between Rhino and Fspy. Made easy with the "sync" option)
 <p>&nbsp;</p>
 6. Modelize
-<br>
+<p>&nbsp;</p>
 <p align="center"><img width="600" alt="Modelisation" src="https://github.com/user-attachments/assets/6560c1ce-9bff-428a-ad86-226d6c115960" />
-
-<br>
+<p>&nbsp;</p>
 7. Get your skillz modelization skillz out
-<br>
+<p>&nbsp;</p>
 <p><img width="49.3%" alt="00-IMG-ref_AlyssaDesgin" src="https://github.com/user-attachments/assets/e4056c60-753a-4aaf-968e-82202d79fc5a"> <img width="49.3%" alt="3-3D_HDPoly" src="https://github.com/user-attachments/assets/c22284be-5a23-47dd-81ad-9b43abd06585"></p>
-<br>
+<p>&nbsp;</p>
 9. Enjoy ;)
 
 ** Reference design credit : Alyssa Kapito
