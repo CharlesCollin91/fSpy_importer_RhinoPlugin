@@ -1,3 +1,4 @@
+<img width="1761" height="1166" alt="ImgRef" src="https://github.com/user-attachments/assets/1faa25b5-383d-47cd-8f29-513dab1feeaf" />
 # Fspy_importer_CC
 
 [Français](README.fr.md) · **English**
@@ -31,10 +32,10 @@ Windows, Rhino 8 or later (built-in Python 3). No extra packages.
 5. Iterate to adjust the lens lenght (back and forth between Rhino and Fspy. Made easy with the "sync" option)
 6. Modelize
 <p align="center"><img width="600" alt="Modelisation" src="https://github.com/user-attachments/assets/6560c1ce-9bff-428a-ad86-226d6c115960" />
-
 7. Get your skillz out
-<p align="center"><img width="600" alt="ModelisationAdvanced" src="https://github.com/user-attachments/assets/4be28361-bf7e-4ec9-850d-a6c3701d8bac" /></p>
+<p><img width="46.4%" alt="ModelisationAdvanced" src="https://github.com/user-attachments/assets/4be28361-bf7e-4ec9-850d-a6c3701d8bac"> <img width="52.3%" alt="ImgRef" src="https://github.com/user-attachments/assets/751db2a8-8dd5-46d9-b9e4-d5a3a6e1df2b"></p>
 8. Enjoy ;)
+
 
 
 
