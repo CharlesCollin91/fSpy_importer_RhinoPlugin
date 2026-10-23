@@ -4,10 +4,18 @@
 
 **The plugin** : A Rhino 8 Python script that imports an [fSpy](https://fspy.io) camera-match project (`.fspy`) into Rhino. 
 
-<div style="display: flex; align-items: flex-start; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/38273ad4-e2b6-4ecd-81bd-5438ed248f01" alt="Image 1" style="width: 50%; height: auto;" />
-  <img src="https://github.com/user-attachments/assets/7d3010c5-468c-427a-85da-690fcf669d90" alt="Rhino fSpy Import" style="width: 50%; height: auto;" />
-</div>
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/38273ad4-e2b6-4ecd-81bd-5438ed248f01"
+    alt="Image 1"
+    height="300"
+  />
+  <img
+    src="https://github.com/user-attachments/assets/7d3010c5-468c-427a-85da-690fcf669d90"
+    alt="Rhino fSpy Import"
+    height="300"
+  />
+</p>
 
 
 - It sets the camera of the Front viewport to the fSpy match at real-world scale, 
