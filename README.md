@@ -5,7 +5,7 @@
 
 <p><img src="https://github.com/user-attachments/assets/38273ad4-e2b6-4ecd-81bd-5438ed248f01" alt="Fspy importer UI" width="28.6%"> <img src="https://github.com/user-attachments/assets/7d3010c5-468c-427a-85da-690fcf669d90" alt="Rhino fSpy Import" width="70.1%"></p>
 
-**What it does **: 
+**What it does ** : 
 - It sets the camera of the Front viewport to the fSpy match at real-world scale, 
 - puts the photo on a textured plane whose origin lands exactly on the fSpy origin. 
 
