@@ -43,6 +43,7 @@ Windows, Rhino 8 or later (built-in Python 3). No extra packages.
 6. Modelize
 <br>
 <p align="center"><img width="600" alt="Modelisation" src="https://github.com/user-attachments/assets/6560c1ce-9bff-428a-ad86-226d6c115960" />
+
 <br>
 7. Get your skillz modelization skillz out
 <br>
