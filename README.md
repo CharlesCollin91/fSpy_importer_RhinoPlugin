@@ -31,9 +31,9 @@ Windows, Rhino 8 or later (built-in Python 3). No extra packages.
 5. Iterate to adjust the lens lenght (back and forth between Rhino and Fspy. Made easy with the "sync" option)
 6. Modelize
 <p align="center"><img width="600" alt="Modelisation" src="https://github.com/user-attachments/assets/6560c1ce-9bff-428a-ad86-226d6c115960" />
-6. Get your skillz out
+7. Get your skillz out
 <p align="center"><img width="600" alt="ModelisationAdvanced" src="https://github.com/user-attachments/assets/4be28361-bf7e-4ec9-850d-a6c3701d8bac" /></p>
-7. Enjoy ;)
+8. Enjoy ;)
 
 
 
