@@ -11,12 +11,13 @@
 - It sets the camera of the Front viewport to the fSpy match at real-world scale, 
 - puts the photo on a textured plane whose origin lands exactly on the fSpy origin. 
 
+**Requirements** : fSpy https://github.com/perarnia/fSpy/releases/tag/v1.0.3
 **Actual Version** : **2.14**
 <br>
 **License** : [GPL-3.0-or-later](LICENSE)
 
 ## Requirements
-Windows, Rhino 8 or later (built-in Python 3). No extra packages.
+Windows, Rhino 8 or later (built-in Python 3), Fspy, No extra packages.
 
 ## Install
 1. Download `Fspy_importer_CC.py` and put it in any folder.
