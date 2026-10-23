@@ -1,6 +1,5 @@
 # Fspy_importer_CC
 
-[Français](README.fr.md) · **English**
 
 **The plugin** : A Rhino 8 Python script that imports an [fSpy](https://fspy.io) camera-match project (`.fspy`) into Rhino. 
 
