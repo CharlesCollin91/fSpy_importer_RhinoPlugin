@@ -30,6 +30,7 @@ Windows, Rhino 8 or later (built-in Python 3). No extra packages.
 <br>
 <p align="center"><img width="600" alt="AnalysedImg" src="https://github.com/user-attachments/assets/d487f03e-1311-40a6-a090-aacff44ecccf" /></p>
 3. Do your first adjustments in fSpy
+
 <br>
 <p align="center"><img width="600" alt="fspy_image_adjustments" src="https://github.com/user-attachments/assets/26c8ed21-5538-41f9-a790-e6bcef178128" /></p>
 4. Import to Rhino via the plugin
