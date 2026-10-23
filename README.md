@@ -16,15 +16,17 @@ Windows, Rhino 8 or later (built-in Python 3). No extra packages.
 
 ## Install
 1. Download `Fspy_importer_CC.py` and put it in any folder.
-2. In Rhino, create a toolbar button with this macro (adjust the path):
+3. In Rhino, create a toolbar button with this macro (adjust the path):
    ```
    ! _-RunPythonScript "C:\...\Fspy_importer_CC\Fspy_importer_CC.py"
    ```
 ## How to
 1. Highly recommanded to understand the basics of fSpy. Everything you need to know for the basics here in this excellent youtube video by Bartochsz Pampush https://www.youtube.com/watch?v=daiMOYR8GS8&t=1343s
 2. Analyse your image
-<p align="center"><img width="60%" alt="ImgRef" src="https://github.com/user-attachments/assets/e8c47fab-cbb3-4dc6-9b2d-de9b04bd80dd" /></p>
+<p align="center"><img width="600" alt="AnalysedImg" src="https://github.com/user-attachments/assets/d487f03e-1311-40a6-a090-aacff44ecccf" /></p>
 3. Do your first adjustments in fSpy
+
+
 
 ## Inputs
 fSpy project file (`.fspy`), which holds both the calibration and the photo. 
