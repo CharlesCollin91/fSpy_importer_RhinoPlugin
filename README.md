@@ -5,7 +5,7 @@
 **The plugin** : A Rhino 8 Python script that imports an [fSpy](https://fspy.io) camera-match project (`.fspy`) into Rhino. 
 
 <img
-  width="400"
+  width="300"
   alt="image"
   src="https://github.com/user-attachments/assets/38273ad4-e2b6-4ecd-81bd-5438ed248f01"
 />
