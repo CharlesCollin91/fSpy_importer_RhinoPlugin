@@ -16,7 +16,7 @@
 **License** : [GPL-3.0-or-later](LICENSE)
 
 ## Requirements
-Windows, Rhino 8 or later (built-in Python 3), Fspy, No extra packages.
+Windows, Rhino 8 or later (built-in Python 3), Fspy, Python 3.
 
 ## Install
 1. Download `Fspy_importer_CC.py` and put it in any folder.
